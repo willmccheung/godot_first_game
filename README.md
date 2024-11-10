@@ -7,7 +7,8 @@ eh anyway.
 
 This will be my first attempt at making **my own** game using Godot.
 
-This will mainly be for learning more about how to use the game engine, and how to build games
+This will mainly be for learning more about how to use the game engine, and how to build games, etc.
+
 
 # Goals
 Learn more about how to develop games
