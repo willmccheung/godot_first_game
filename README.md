@@ -11,11 +11,17 @@ This will mainly be for learning more about how to use the game engine, and how 
 
 
 # Goals
-Learn more about how to develop games
-Learn the Godot game engine
+- Learn more about how to develop games
+- Learn the Godot game engine
 
 # The Game
 ## Game Ideas
+- probably want to make a 3d game as:
+  - it's relatively easy to implement a 3d environment in Godot
+  - I'm not smart enough to think of a 2d game with interesting mechanics
+  - other stuff as well
+-  will want to do something that I can build upon; start small and expand
+  - BUT **not** feature-creepy
 
 ## Game Description
 
